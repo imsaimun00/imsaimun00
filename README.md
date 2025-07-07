@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/github-cover 1.png" alt="Cover" />
+  <img src="assets/github-cover.png" alt="Cover" />
 </p>
 
 <h3 align="center">💻 Frontend Developer | 🎨 UI Enthusiast | 🛠️ Creative Coder</h3>
