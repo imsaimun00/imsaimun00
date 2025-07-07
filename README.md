@@ -12,9 +12,12 @@
 
 ### ✨ About Me
 
-🔭 I’m a **Frontend Developer** with a passion for creating **beautiful**, **functional**, and **responsive** websites.  
-🎯 Currently focused on **React.js**, **Tailwind CSS**, and **CSS animations**.  
-📱 Love building **clean UIs**, adding subtle **micro-interactions**, and exploring design systems.
+Hi there! 👋  
+I'm a passionate web crafter 🧑‍💻 who believes in clean code 🧼, beautiful UI 🎨, and pixel-perfect designs 🧩.  
+From writing my first `<h1>` 🔤 to building full layouts with React ⚛️ & Tailwind 🌬️ — the journey has been wild 🎢.  
+I love solving problems 🧠, learning every day 📚, and turning coffee into code ☕💻  
+Let’s build something amazing ✨ — one line of code at a time. 🚀
+
 
 ---
 
