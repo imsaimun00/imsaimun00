@@ -5,7 +5,7 @@
 <h3 align="center">💻 Frontend Developer | 🎨 UI Enthusiast | 🛠️ Creative Coder</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00C7FF&center=true&vCenter=true&width=435&lines=Crafting+Pixel-perfect+UIs...;Breathing+life+into+designs;Scroll.+Hover.+Click.+Feel+the+Difference."/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00C7FF&center=true&vCenter=true&width=600&lines=Crafting+Pixel-perfect+UIs...;Breathing+life+into+designs;Scroll.+Hover.+Click.+Feel+the+Difference."/>
 </p>
 
 ---
