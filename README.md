@@ -2,7 +2,6 @@
   <img src="assets/github-cover 1.png" alt="Cover" />
 </p>
 
-<h1 align="center">🚀 Hey, I'm Saimun!</h1>
 <h3 align="center">💻 Frontend Developer | 🎨 UI Enthusiast | 🛠️ Creative Coder</h3>
 
 <p align="center">
